@@ -32,7 +32,7 @@ export default function RootLayout({
         <header className="mb-10">
           <div>
             <Link href='/' className="font-bold text-lg leading-snug">Hymnal</Link>
-            <span className="block text-sm text-gray-600">a book of hymns</span>
+            <span className="block text-sm text-gray-600">a &quot;digital&quot; book of hymns</span>
           </div>
         </header>
         <main>
