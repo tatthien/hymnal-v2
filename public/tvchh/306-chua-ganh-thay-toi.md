@@ -1,0 +1,7 @@
+---
+id: 306
+name: 306. Chúa Gánh Thay Tôi
+weight: 306
+category: Đơn Ca Kêu Gọi
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Ngày nào lạc lối bước đi lẻ loi, đường đời đầy giông tố vây quanh. <br/>Miệt mài chìm đắm giữa muôn ô tội, nào biết Chúa đang khuyên mời <br/>chờ tôi quay gót phiêu du. <br/>Trở về Ngài xóa hết bao tội tôi, nhọc nhằn Ngài đã gánh thay tôi. <br/>Đường trần giờ có Chúa bên tôi rồi, <br/>Ngài dẫn dắt tôi trọn đời, hạnh phúc thỏa vui bình an. <br/>Nhớ Chúa trên đồi xưa gánh thay tội tôi Ngài mang khổ hình <br/>Tôi nhờ ơn cứu chuộc đó mà thay đổi đời sống, lòng hằng ngợi khen Chúa. <br/>Giê-xu Ngài vẫn thiết đợi ai mệt nhọc và nặng gánh trên vai. </dd><dt>Kết bài:</dt><dd data-end="1"><em>Tìm về cùng Chúa để ăn năn tội, <br/>Ngài sẽ thứ tha cho bạn còn có nỗi vui nào hơn. </em><dt>Câu 2:</dt><dd data-verse="2">Ngày nào lạc lối bước đi lẻ loi, đường đời đầy giông tố vây quanh. <br/>Miệt mài chìm đắm giữa muôn ô tội, nào biết Chúa đang khuyên mời <br/>chờ tôi quay gót phiêu du. <br/>Trở về Ngài xóa hết bao tội tôi, nhọc nhằn Ngài đã gánh thay tôi. <br/>Đường trần giờ có Chúa bên tôi rồi, <br/>Ngài dẫn dắt tôi trọn đời, hạnh phúc thỏa vui bình an. <br/>Nhớ Chúa trên đồi xưa gánh thay tội tôi Ngài mang khổ hình <br/>Tôi nhờ ơn cứu chuộc đó mà thay đổi đời sống, lòng hằng ngợi khen Chúa. <br/>Giê-xu Ngài vẫn thiết đợi ai mệt nhọc và nặng gánh trên vai. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Trờ về cùng Chúa với ơn tha tội, <br/>bạn sẽ hưởng ơn lành, đời sống Chúa ban bình an. </em></dd></dl>

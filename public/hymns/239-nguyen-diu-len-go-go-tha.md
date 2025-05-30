@@ -1,0 +1,7 @@
+---
+id: 239
+name: 239. Nguyền Dìu Lên Gô-Gô-Tha
+weight: 239
+category: Sự dâng mình cho Chúa
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Tôn Vua Jê-sus ngự quản nhất sanh, <br/>Hiển vinh về Chúa nhân lành; <br/>Gô-gô-tha nguyền Ngài dẫn đến ngay, <br/>Hầu đừng quên mão gai rày. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lòng nầy e quên Ghết-sê-ma-nê; <br/>Lòng nầy e quên Chúa đau trăm bề; <br/>Để nhớ ái đức Jê-sus chan hòa, <br/>Nguyền dìu lên Gô-gô-tha. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Hãy chỉ tôi phần mộ xác Chúa chôn, <br/>Chỗ bao người nước mắt tuôn, <br/>Có cả thiên thần mặc áo trắng tinh, <br/>Hộ vệ Ngài ngủ an bình. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lòng nầy e quên Ghết-sê-ma-nê; <br/>Lòng nầy e quên Chúa đau trăm bề; <br/>Để nhớ ái đức Jê-sus chan hòa, <br/>Nguyền dìu lên Gô-gô-tha. </em><dt>Câu 3:</dt><dd data-verse="3">Nối gót Ma-ri một buổi sớm mai, <br/>Thuốc thơm, dầu quý dâng Ngài. <br/>Chúa chỉ tôi mộ Ngài đã bước ra, <br/>Nguyền dìu lên Gô-gô-tha. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lòng nầy e quên Ghết-sê-ma-nê; <br/>Lòng nầy e quên Chúa đau trăm bề; <br/>Để nhớ ái đức Jê-sus chan hòa, <br/>Nguyền dìu lên Gô-gô-tha. </em><dt>Câu 4:</dt><dd data-verse="3">Hỡi Chúa, tôi nguyền vì cớ Chúa nay, <br/>Vác thập tự giá tôi rày; <br/>Chén khổ tôi nguyền cùng uống Chúa ôi, <br/>Ngài vì tôi uống xưa rồi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lòng nầy e quên Ghết-sê-ma-nê; <br/>Lòng nầy e quên Chúa đau trăm bề; <br/>Để nhớ ái đức Jê-sus chan hòa, <br/>Nguyền dìu lên Gô-gô-tha. </em></dl>

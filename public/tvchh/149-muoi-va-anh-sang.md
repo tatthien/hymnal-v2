@@ -1,0 +1,7 @@
+---
+id: 149
+name: 149. Muối Và Ánh Sáng
+weight: 149
+category: Dâng Hiến - Đáp Ứng
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Trần thế lôi cuốn với hư danh tiền tài, <br/>ngày tháng con mãi đam mê trong lạc lầm. <br/>Sự sáng Thiên Chúa trong con nay mờ dần, <br/>muối nay không còn mặn mà trong chính đời con? </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hãy chiếu sáng truyền danh Cha khắp thế giới. <br/>Làm muối của đất cho bao người quanh con. <br/>Giữa gian trần đầy hận thù và gian dối. <br/>Nguyện đời con chiếu sáng cho Ngài nay. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Trần thế đang đắm say công danh lợi tiền, <br/>bạn hỡi sao cũng ham vinh hoa đời này? <br/>Cuộc sống đâu chỉ lo toan ăn mặc gì, <br/>chính Cha trên trời liệu lo chăm sóc đời ta. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hãy chiếu sáng truyền danh Cha khắp thế giới. <br/>Làm muối của đất cho bao người quanh con. <br/>Giữa gian trần đầy hận thù và gian dối. <br/>Nguyện đời con chiếu sáng cho Ngài nay. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Trần thế đang khát khao yêu thương hòa bình, <br/>bạn có đang thấy bao tâm hồn nặng nề? <br/>Cuộc sống luôn chán chường lo toan tuyệt vọng, <br/>hãy dâng cuộc đời truyền rao Thiên Chúa tình yêu. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hãy chiếu sáng truyền danh Cha khắp thế giới. <br/>Làm muối của đất cho bao người quanh con. <br/>Giữa gian trần đầy hận thù và gian dối. <br/>Nguyện đời con chiếu sáng cho Ngài nay. </em></dd></dl>

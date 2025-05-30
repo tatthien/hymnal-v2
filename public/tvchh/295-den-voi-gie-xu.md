@@ -1,0 +1,7 @@
+---
+id: 295
+name: 295. Đến Với Giê-Xu
+weight: 295
+category: Đơn Ca Kêu Gọi
+---
+<dl><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Có bao giờ người kiếm vui tươi, <br/>nếp vui cười còn mãi không thôi? <br/>Đã bao lần người kiếm yêu thương, <br/>tình yêu muôn kiếp và chẳng phai? <br/>Hỡi anh ơi, tìm kiếm nơi đâu, <br/>bởi nhân gian đầy dẫy ô dơ. <br/>Biết bao nhiêu buồn bã, ưu tư, <br/>lòng luôn ghen ghét và đắng cay. </em></dd><dt>Câu 1:</dt><dd data-verse="1">Nếu người muốn có vui tươi <br/>và vĩnh cửu yêu thương thì đến với Giê-xu. <br/>Chúa làm anh thỏa vui, <br/>nguồn vui trong tâm luôn mãi muôn đời. <br/>Chúa là Chúa của yêu thương, <br/>tình Chúa mãi không phai, <br/>nồng thắm suốt muôn thu. <br/>Chúa chờ anh đến ngay. <br/>Về mau anh hỡi! Ngài đón anh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Có bao giờ người kiếm vui tươi, <br/>nếp vui cười còn mãi không thôi? <br/>Đã bao lần người kiếm yêu thương, <br/>tình yêu muôn kiếp và chẳng phai? <br/>Hỡi anh ơi, tìm kiếm nơi đâu, <br/>bởi nhân gian đầy dẫy ô dơ. <br/>Biết bao nhiêu buồn bã, ưu tư, <br/>lòng luôn ghen ghét và đắng cay. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Nếu người đến với Giê-xu <br/>thì Chúa thứ tha anh. Và sẽ tái sanh anh. <br/>Tâm hồn anh thỏa vui, <br/>nguồn vui trong tâm luôn mãi muôn đời. <br/>Chúa vào sống mãi trong anh, <br/>tình ái Chúa cho anh, <br/>nồng thắm suốt muôn thu. <br/>Chúa chờ anh đến ngay. <br/>Về mau anh hỡi! Ngài đón anh. </dd></dl>

@@ -1,0 +1,7 @@
+---
+id: 187
+name: 187. Tình Ái Chúa Tôi
+weight: 187
+category: 
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Ngày trước áp bức tội nhơ vương vấn chẳng lối thoát, <br/>Chúa buông tha tôi ra bằng tình yêu. <br/>Ngài đến với cả hồng ân lai láng với huyết thắm, <br/>bôi xóa tôi hết tội ô gian ác trong lòng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ồ lạ lùng bấy Giê-xu tríu mến tôi vô vàn. <br/>Ồ lạ lùng thay ân ái Chúa Giê-xu lai láng. <br/>Ồ lạ lùng bấy Giê-xu tríu mến tôi vô vàn. <br/>Lòng nguyện cùng đi với Chúa tôi mọi đàng. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Tình ái Cứu Chúa dành tôi phu phỉ những phước mới, <br/>tiếng ca yêu thương vang vọng mọi nơi. <br/>Ngày mới sức mới lòng tôi luôn trỗi khúc hát mới, <br/>ca xướng danh Giê-xu đem ân cứu cho đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ồ lạ lùng bấy Giê-xu tríu mến tôi vô vàn. <br/>Ồ lạ lùng thay ân ái Chúa Giê-xu lai láng. <br/>Ồ lạ lùng bấy Giê-xu tríu mến tôi vô vàn. <br/>Lòng nguyện cùng đi với Chúa tôi mọi đàng. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Tình ái Cứu Chúa dìu tôi qua hết những lối khó, <br/>bước chân nâng cao bởi Ngài cùng đi. <br/>Dầu thấy trước mắt nghìn muôn tăm tối bóng bối rối, <br/>luôn có tay Giê-xu lòng chẳng nao núng gì. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ồ lạ lùng bấy Giê-xu tríu mến tôi vô vàn. <br/>Ồ lạ lùng thay ân ái Chúa Giê-xu lai láng. <br/>Ồ lạ lùng bấy Giê-xu tríu mến tôi vô vàn. <br/>Lòng nguyện cùng đi với Chúa tôi mọi đàng. </em></dd></dl>

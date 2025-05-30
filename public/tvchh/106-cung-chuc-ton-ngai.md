@@ -1,0 +1,7 @@
+---
+id: 106
+name: 106. Cùng Chúc Tôn Ngài
+weight: 106
+category: Tôn Cao Chúa
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Lòng con dâng khúc ca vui mừng, <br/>ngợi khen Giê-xu chí cao. <br/>Lời Giê-xu phán rất nhân từ, <br/>làm mới tâm sinh lực con. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nào hãy cất tiếng cùng tán dương, <br/>Giê-xu Vua các Vua. <br/>Cùng nhau ta luôn chúc tôn Ngài. <br/>Danh Giê-xu đời đời. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Mọi dân trên đất ca khen Ngài, <br/>vì danh Giê-xu khắp nơi. <br/>Dầu vinh quang Chúa cao vô cùng, <br/>Ngài đoái thương kẻ tội nhơ. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nào hãy cất tiếng cùng tán dương, <br/>Giê-xu Vua các Vua. <br/>Cùng nhau ta luôn chúc tôn Ngài. <br/>Danh Giê-xu đời đời. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Đời gian truân phủ vây trăm bề, <br/>quyền năng Giê-xu chở che, <br/>Tình yêu Thiên Chúa ôi muôn đời, <br/>lòng biết ơn dâng lời ca. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nào hãy cất tiếng cùng tán dương, <br/>Giê-xu Vua các Vua. <br/>Cùng nhau ta luôn chúc tôn Ngài. <br/>Danh Giê-xu đời đời. </em></dd><dt>Câu 4:</dt><dd data-verse="4">Nguyện dâng lên tiếng tri ân Ngài, <br/>tình yêu bao la thắm tươi. <br/>Cùng nhau ca khúc tôn cao Ngài, <br/>lòng ái nhân Cha đời đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nào hãy cất tiếng cùng tán dương, <br/>Giê-xu Vua các Vua. <br/>Cùng nhau ta luôn chúc tôn Ngài. <br/>Danh Giê-xu đời đời. </em></dd></dl>

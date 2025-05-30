@@ -1,0 +1,7 @@
+---
+id: 339
+name: 339. Đồi Gô-Gô-Tha Chốn Xưa
+weight: 339
+category: Thương Khó
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Đồi Gô-gô-tha chốn xưa Chúa mang thập giá nặng. <br/>Nỗi đau âm thầm mà nào ai thấu chăng? <br/>Tội lỗi nhân thế chất trên thân Ngài càng thêm nhiều. <br/>Bởi yêu thế nhân Giê-xu chịu hy sinh. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ơn Chúa cao sâu vô đối, tình yêu Chúa quá tuyệt vời. <br/>Có ai yêu như Giê-xu, ai dám chết thế cho người. <br/>Thứ tha cho bao tội nhân, xóa hết quá khứ lạc lầm <br/>giúp cho ta luôn bình an bước trên nẻo chánh. <br/>Ấy chính Chúa Giê-xu, Ngài đã đến cõi thế gian <br/>với bao ưu tư nặng mang tội lỗi khắp chốn ngập tràn. <br/>Chúng sinh đang trong lầm than, <br/>bởi tội loài người Chúa gánh nhục hình. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Lạy Chúa Giê-xu lắng nghe con đang kêu khẩn Ngài. <br/>Giúp ban năng lực để vượt qua khó khăn. <br/>Nguyện Chúa dẫn dắt sửa sai bao điều con bất toàn. <br/>Đóng đinh xác thịt con trên thập tự ngay. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ơn Chúa cao sâu vô đối, tình yêu Chúa quá tuyệt vời. <br/>Có ai yêu như Giê-xu, ai dám chết thế cho người. <br/>Thứ tha cho bao tội nhân, xóa hết quá khứ lạc lầm <br/>giúp cho ta luôn bình an bước trên nẻo chánh. <br/>Ấy chính Chúa Giê-xu, Ngài đã đến cõi thế gian <br/>với bao ưu tư nặng mang tội lỗi khắp chốn ngập tràn. <br/>Chúng sinh đang trong lầm than, <br/>bởi tội loài người Chúa gánh nhục hình. </em></dd></dl>

@@ -1,0 +1,7 @@
+---
+id: 386
+name: 386. Xuân An Lành
+weight: 386
+category: Mừng Năm Mới
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Xuân, xuân đã về thắm tươi trên đồng lúa vàng. <br/>Xuân, xuân đã về huy hoàng ngàn tia nắng. <br/>Xuân, xuân đã về ngát hương đêm mộng thanh bình. <br/>Xuân, xuân đã về khắp nơi tràn ngập tiếng ca. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em> Lòng mừng chào đón xuân về muôn sắc hoa. <br/>Nguyện cầu mùa xuân an lành trên dân Chúa. <br/>Người người cùng hát vang lừng vui đón xuân. <br/>Người người cùng vui chúc nhau xuân an lành. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Xuân, xuân đã về gió xuân xao động muôn loài. <br/>Xuân, xuân đã về muôn ngàn mầm xanh mới. <br/>Xuân, xuân đã về điểm tô tâm hồn nhân loại. <br/>Xuân ơi hãy đẹp mãi trên môi cười thế nhân. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lòng mừng chào đón xuân về muôn sắc hoa. <br/>Nguyện cầu mùa xuân an lành trên dân Chúa. <br/>Người người cùng hát vang lừng vui đón xuân. <br/>Người người cùng vui chúc nhau xuân an lành. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Xuân, xuân đã về thắm tươi trên đồng lúa vàng. <br/>Xuân, xuân đã về trong lòng người con Chúa. <br/>Bao nhiêu ước nguyện thiết tha khi mùa xuân về. <br/>Mong nhân thế trọn ước mơ thanh bình ngát hương. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Lòng mừng chào đón xuân về muôn sắc hoa. <br/>Nguyện cầu mùa xuân an lành trên dân Chúa. <br/>Người người cùng hát vang lừng vui đón xuân. <br/>Người người cùng vui chúc nhau xuân an lành. </em></dd></dl>

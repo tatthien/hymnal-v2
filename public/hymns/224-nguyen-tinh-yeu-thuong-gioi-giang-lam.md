@@ -1,0 +1,7 @@
+---
+id: 224
+name: 224. Nguyền Tình Yêu Thượng Giới Giáng Lâm
+weight: 224
+category: Sự nên thánh
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Nguyền tình yêu thượng giới giáng lâm ngay, <br/>yêu tuyệt đối kia hoan lạc trời; <br/>Nguyện đặt ngôi Ngài giữa chúng tôi nay, <br/>Nguyện điểm trang ơn thiêng đẹp tươi. <br/>Jê-sus tôi ôi! chân từ ái duy Ngài, <br/>Yêu sao thánh khiết sâu thẳm thay! <br/>Cầu Ngài đem sự cứu rỗi không phai, <br/>Ngự đến mỗi tâm run sợ đây. </dd><dt>Câu 2:</dt><dd data-verse="2">Nguyện hà hơi bằng Thánh Linh yêu thương, <br/>Vô đầy mỗi tâm đang lo buồn; <br/>Nguyện cùng được thừa kế phước vô cương, <br/>Nguyện thảy nghỉ yên như dự ngôn. <br/>Xin xua bao vi phạm khỏi tâm này, <br/>Xin mau phóng thích tâm chúng tôi, <br/>Thành toàn An-pha, Ô-mê-ga nay, <br/>Nguồn gốc đức tin duy Ngài thôi. </dd><dt>Câu 3:</dt><dd data-verse="3">Mời Ngài ngự vào hỡi Đấng thiêng liêng, <br/>Ban đầy chúng tôi sinh mạng Ngài; <br/>Lòng nầy nguyện Ngài đến cách tất nhiên, <br/>Ngự mãi mãi nơi tâm điền đây. <br/>Nơi thiên binh cung dịch Chúa tận thiền, <br/>Vui ca chúc luôn luôn trước ngai, <br/>Hằng cầu nguyện tụng tán Chúa vô biên, <br/>Thần ái Chúa vinh diệu nào phai. </dd><dt>Câu 4:</dt><dd data-verse="4">Nguyền thành toàn vật Chúa tái tân nay, <br/>xin làm chúng tôi luôn sạch ngần; <br/>Nguyện được xem dòng cứu rỗi láng lai, <br/>Nguyện giúp chúng tôi luôn phục hưng. <br/>Mong sao khi lên nhận chỗ trên trời, <br/>Trông vinh hiển đến vinh hiển luôn, <br/>Cùng đội kim miện trước Chúa vui tươi, <br/>Ngập bể ái, kinh ngạc, tụng tôn. </dd></dl>

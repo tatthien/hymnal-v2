@@ -1,0 +1,7 @@
+---
+id: 202
+name: 202. Ngài Là Vầng Đá
+weight: 202
+category: 
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Cuộc đời bể dâu cuồng phong sóng xô dập dồi. <br/>Tôi nương bên Chúa an bình trong cơn bão tố. <br/>Dù đời đắng cay khổ đau mắt tuôn lệ nhòa. <br/>Tôi nương Giê-xu chính vầng đá tôi dựa nương. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài là vầng đá cho tôi nương dựa, <br/>Ngài là vầng đá vững tâm hồn tôi. <br/>Ngoài Ngài có ai nương nhờ giữa cơn cuồng phong. <br/>Duy chính Giê-xu là vầng đá tôi dựa nương. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Nhìn chim én kia dù bao gió mưa dập dồi. <br/>Nhưng chim vẫn hót an bình trong hóc đá lớn. <br/>Đời tôi giống chim nhỏ kia sống giữa cuộc đời. <br/>Nhưng chính Giê-xu là vầng đá tôi dựa nương. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài là vầng đá cho tôi nương dựa, <br/>Ngài là vầng đá vững tâm hồn tôi. <br/>Ngoài Ngài có ai nương nhờ giữa cơn cuồng phong. <br/>Duy chính Giê-xu là vầng đá tôi dựa nương. </em></dd><dt>Câu 3:</dt><dd data-verse="3">“Lại đây ớ con!” Lời khuyên phán ôi dịu dàng. <br/>Nương trong bóng cánh năng quyền ta luôn vững chãi. <br/>Lại mau ớ con những ai đắm trong khổ đau. <br/>Ta đây Giê-xu là vầng đá con dựa nương. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Ngài là vầng đá cho tôi nương dựa, <br/>Ngài là vầng đá vững tâm hồn tôi. <br/>Ngoài Ngài có ai nương nhờ giữa cơn cuồng phong. <br/>Duy chính Giê-xu là vầng đá tôi dựa nương. </em></dd></dl>

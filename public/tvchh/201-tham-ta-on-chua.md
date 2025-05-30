@@ -1,0 +1,7 @@
+---
+id: 201
+name: 201. Thầm Tạ Ơn Chúa
+weight: 201
+category: 
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Thầm tạ ơn Chúa mặc dù bao nhiêu thách thức đường đời, <br/>Ngài dành cho tôi ánh sáng rạng ngời, hằng ngày tôi bước đi. <br/>Thầm tạ ơn Chúa nhờ ngày gian nguy mới biết dịu mềm. <br/>Dần dần đi lên những bước thực nghiệm học làm theo ý Cha. <br/>Rồi khi sóng gió dâng lên trong tâm hồn <br/>dường như đuốc cháy không sao ngăn ngừa, <br/>và tôi thấy khó vâng theo bao lời dạy khuyên dẫn đường. <br/>Vì khi thách thức gia tăng trong con người <br/>tôi tiếng nói vang lên ra lệnh, <br/>rồi bao tiếng Chúa như xa dần và tôi đã thua. <br/>Thầm tạ ơn Chúa vì giờ gian nguy bóng Chúa rạng ngời. <br/>Lời Ngài đưa đi thoát bước lầm lạc, và vượt qua khó nguy. <br/>Thầm tạ ơn Chúa vì dù trong cơn thách thức cuộc đời <br/>nhờ Ngài cho tôi thoát lối lạ thường lạc đuờng như dễ đi <br/>Rồi khi sóng gió dâng lên trong tâm hồn <br/>dường như đuốc cháy không sao ngăn ngừa, <br/>và tôi thấy khó vâng theo bao lời dạy khuyên dẫn đường. <br/>Vì khi thách thức gia tăng trong con người <br/>tôi tiếng nói vang lên ra lệnh, <br/>rồi bao tiếng Chúa như xa dần và tôi đã thua. <br/>Thầm tạ ơn Chúa vì Ngài cho tôi đắc thắng đường đời, <br/>nhờ thuận vâng theo tiếng Chúa dạy truyền, đời được tươi sáng hơn. <br/>Ánh sáng Chúa vẫn sáng soi rồi một ngày kia sóng gió tan đi. <br/>Nhìn bầu trời xanh thắm thiết tôi thấy đôi mắt nhân từ dịu êm. </dd></dl>

@@ -1,0 +1,7 @@
+---
+id: 702
+name: 702. Tìm Về Miền Đất Hứa
+weight: 702
+category: Nguyện vọng
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Cùng đi, ta vui bước bên nhau về miền quê hương ta, <br/>miền quê hương ta, miền Chúa đã hứa. <br/>Nào đi, ta mau bước bên nhau về miền quê hương ta. <br/>Mật thơm, sữa ngon chan hòa. <br/>Miền Chúa hứa cho ta, tràn nước sống bao la. <br/>Nào đi, ta mau bước bên nhau về miền quê hương ta. <br/>Mật thơm, sữa ngon chan hòa. </dd></dl>

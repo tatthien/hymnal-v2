@@ -1,0 +1,7 @@
+---
+id: 194
+name: 194. Hãy Đếm Các Phước Chúa Ban
+weight: 194
+category: 
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Khi bao cơn sóng gió bủa khắp xung quanh bạn đây. <br/>Hoặc khi anh cảm thấy mất cả mọi điều đời nay. <br/>Xin anh mau mau đếm các phước lành Thiên Phụ ban, <br/>rồi anh ngạc nhiên thấy phước ân Chúa luôn luôn tràn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin anh đếm các phước lành Cha luôn ban. <br/>Xin anh hãy kể ra ơn lành từng tên. <br/>Hãy đếm ơn trên, hãy kể tên linh ân. <br/>Chắc chắn anh sẽ thấy các công tác Cha đã làm. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Khi anh đang mê mỏi bởi gánh nặng trên đời chăng? <br/>Hoặc cây thập tự của anh mang thật là nặng chăng? <br/>Anh nên mau mau đếm các phước lành trên trời ban, <br/>mọi hồ nghi tiêu tán chắc anh sẽ hát suốt đàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin anh đếm các phước lành Cha luôn ban. <br/>Xin anh hãy kể ra ơn lành từng tên. <br/>Hãy đếm ơn trên, hãy kể tên linh ân. <br/>Chắc chắn anh sẽ thấy các công tác Cha đã làm. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Anh đang trông nơi của cải kẻ giàu sang đời nầy? <br/>Kìa kim ngôn Cha hứa ban cho vô tận ngày mai. <br/>Xin anh ghi ơn phước Chúa vẫn hằng ban đầy dư, <br/>dầu bao nhiêu gia sản vẫn không thể mua đâu nào. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin anh đếm các phước lành Cha luôn ban. <br/>Xin anh hãy kể ra ơn lành từng tên. <br/>Hãy đếm ơn trên, hãy kể tên linh ân. <br/>Chắc chắn anh sẽ thấy các công tác Cha đã làm. </em></dd></dl>

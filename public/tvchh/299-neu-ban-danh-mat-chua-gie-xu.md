@@ -1,0 +1,7 @@
+---
+id: 299
+name: 299. Nếu Bạn Đánh Mất Chúa Giê-Xu
+weight: 299
+category: Đơn Ca Kêu Gọi
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Cuộc đời như con thuyền đắm chìm vào biển cả mờ tối. <br/>Cuộc đời ví thể hoa rơi, trôi mênh mang, mênh mang đến vô tận. <br/>Cần chi vinh hoa bạn hỡi? Cần chi cao sang trần thế. <br/>Và còn chi ý nghĩa cuộc sống nếu mất Giê-xu trong đời anh. <br/>Ôi Giê-xu yêu anh như chính Ngài, yêu anh không phút giây lìa xa. <br/>Trái tim này vỡ tan nếu mất Chúa Giê-xu, <br/>thì đời có nghĩa chi, vinh hoa như gió bay đi. <br/>Ôi Giê-xu yêu anh không bến bờ, yêu anh không phút giây lìa xa. <br/>Hãy quay về với Cha, giao phó hết âu lo, <br/>Ngài luôn sẽ dang tay chờ đón anh. <br/>Ngài xóa hết trong anh mọi đớn đau. <br/>Đời anh sẽ thỏa vui vì có Giê-xu. </dd><dt>Câu 2:</dt><dd data-verse="2">Cuộc đời như con thuyền đắm chìm vào biển cả mờ tối. <br/>Cuộc đời ví thể hoa rơi, trôi mênh mang, mênh mang đến vô tận. <br/>Cần chi vinh hoa bạn hỡi? Cần chi cao sang trần thế <br/>và còn chi ý nghĩa cuộc sống nếu mất Giê-xu trong đời anh. <br/>Ôi Giê-xu yêu anh như chính Ngài, yêu anh không phút giây lìa xa. <br/>Nếu trong đời của anh đánh mất Chúa Giê-xu, <br/>thì đời có nghĩa chi, vinh hoa như gió bay đi. <br/>Ôi Giê-xu yêu anh không bến bờ, yêu anh không phút giây lìa xa. <br/>Hãy quay về với Cha, giao phó hết âu lo, <br/>Ngài luôn sẽ dang tay chờ đón anh. <br/>Ngài xóa hết trong anh mọi đớn đau. <br/>Đời anh sẽ thỏa vui vì có Giê-xu. </dd></dl>

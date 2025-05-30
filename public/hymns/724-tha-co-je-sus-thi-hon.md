@@ -1,0 +1,7 @@
+---
+id: 724
+name: 724. Thà Có Jê-Sus Thì Hơn
+weight: 724
+category: Bền lòng tin cậy
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Thật hơn kim ngân châu báu là Chúa Jê-sus, <br/>làm con yêu thương Chúa quý gấp mấy kho tàng. <br/>Thà có Jê-sus hơn hết lầu các vinh quang. <br/>Thà do Jê-sus dắt bàn tay lũng đinh Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hơn tước vị vua chúa toàn vinh hiển thế gian, <br/>mà xích tội khiên vẫn còn mang. <br/>Thà luôn luôn bên Jê-sus nào có chi hơn. <br/>Hằng muốn ở trên thiên đàng. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Gần bên Jê-sus hơn hết người thế đổi thay. <br/>Thà luôn luôn trung tín với chứng cớ của Ngài. <br/>Thà có Jê-sus hơn hết các lời thế gian khen. <br/>Thà luôn luôn trung tín vì Danh Thánh của Ngài. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hơn tước vị vua chúa toàn vinh hiển thế gian, <br/>mà xích tội khiên vẫn còn mang. <br/>Thà luôn luôn bên Jê-sus nào có chi hơn. <br/>Hằng muốn ở trên thiên đàng. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Ngài xinh tươi, thơm như đóa huệ trũng Sa-rôn. <br/>Tàng ong kia chưa chắc sánh với đức êm dịu Ngài. <br/>Lòng tôi trông mong khao khát cần đến Jê-sus. <br/>Thà xin Jê-sus đến Ngài giải cứu linh hồn. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Hơn tước vị vua chúa toàn vinh hiển thế gian, <br/>mà xích tội khiên vẫn còn mang. <br/>Thà luôn luôn bên Jê-sus nào có chi hơn. <br/>Hằng muốn ở trên thiên đàng. </em></dd></dl>

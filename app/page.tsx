@@ -1,8 +1,8 @@
 import Link from "next/link"
-import { getHymns } from "./hymns"
+import { getSongs } from "./hymns"
 
 export default async function Home() {
-  const hymns = await getHymns()
+  const hymns = await getSongs('hymns')
 
   return (
     <div>
@@ -14,7 +14,7 @@ export default async function Home() {
           className="hover:underline"
         >
           <article >
-            <h2 className="tabular-nums">{hymn.title}</h2>
+            <h2 className="tabular-nums">{hymn.name}</h2>
           </article>
         </Link>
       ))}

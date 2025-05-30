@@ -1,0 +1,7 @@
+---
+id: 376
+name: 376. Khúc Tình Ca Ngày Cưới
+weight: 376
+category: Hôn Lễ
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Dìu nhau vào thánh đường quỳ bên cạnh nhau. <br/>Cùng thành tâm thầm lắng nghe lời Chúa khuyên từng câu. <br/>Ôi! giây phút thiêng Ngài se tơ kết duyên, <br/>Hợp ta nên đôi lứa êm đềm. <br/>Nhạc mơ màng lắng ngân một thiên tình ca. <br/>Nhạc hòa theo từng tiếng ca làm êm ấm lòng ta. <br/>Đôi tim chúng ta cùng rung lên thiết tha, <br/>Tình yêu thắm tươi như ngàn hoa. <br/>Khẽ nắm tay nhau tặng một chiếc nhẫn xinh, <br/>Chúa chứng cho ta lời thề ước sắt đinh. <br/>kề vai lòng đắm say nhìn lên trời xa, <br/>cùng thành tâm mời Giê-xu làm Chúa gia đình ta. <br/>Ôi sung sướng thay đời ta vang tiếng ca, <br/>dìu nhau bước vui trên đường hoa. </dd><dt>Câu 2:</dt><dd data-verse="2">Dìu nhau cùng bước trên đường mơ đầy hoa. <br/>Từng đàn chim chào đón ta bằng khúc thương tình ca, <br/>Cây xanh cúi nghiêng mình khi ta bước qua. <br/>Ngàn hoa dâng hương sắc chan hòa. <br/>Nhạc êm đềm lắng ngân một thiên tình ca. <br/>Từng điệu ru hồn ngất ngây mừng chúc duyên tình ta. <br/>Hôm nay biết bao người thân yêu chốn xa, <br/>Về đây hát vang vui cùng ta. <br/>Sánh bước ta đi vào cuộc sống lứa đôi, <br/>Nhớ mãi hôm nay ngày hạnh phúc thắm tươi. <br/>Hành trang ngày cưới ta là câu tình ca, <br/>Là tình yêu nồng thắm êm đềm suốt trong đời ta. <br/>Bao năm tháng qua tình ta không cách xa, <br/>Dù mưa nắng bên nhau cùng ca. </dd></dl>

@@ -1,0 +1,7 @@
+---
+id: 352
+name: 352. Trong Ơn Chúa
+weight: 352
+category: Thông Công-Sinh Hoạt
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Cùng Ngài ra đi con mang theo sức mới <br/>và nhiệt huyết tuổi xanh tràn niềm tin. <br/>Tìm ai cô đơn đang chìm trong bóng tối, <br/>đem lời Chúa biết với thế gian mong chờ. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Vui thông công ngợi khen ơn Cha, <br/>tràn dâng tâm linh niềm vui bao la. <br/>Nhờ Cha khai tâm ban tràn tuôn sức sống, <br/>xin lời Chúa khuyến khích con theo chân Ngài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Về từ muôn phương họp mặt trong thánh ý, <br/>hòa vang tiếng hát trong tâm tình anh em. <br/>Thầm tạ ơn Cha khi được soi dẫn lối <br/>qua từng phút hưởng phước như trên Thiên đàng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Vui thông công ngợi khen ơn Cha, <br/>tràn dâng tâm linh niềm vui bao la. <br/>Nhờ Cha khai tâm ban tràn tuôn sức sống, <br/>xin lời Chúa khuyến khích con theo chân Ngài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Tựa đèn soi đêm ta xua tan bóng tối, <br/>bằng đời sống dẫn đưa bao người đơn côi. <br/>Truyền cho tha nhân tin mừng vui lẽ sống, <br/>mong toàn thế giới sẽ trở nên bạn bè. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Vui thông công ngợi khen ơn Cha, <br/>tràn dâng tâm linh niềm vui bao la. <br/>Nhờ Cha khai tâm ban tràn tuôn sức sống, <br/>xin lời Chúa khuyến khích con theo chân Ngài. </em></dd></dl>

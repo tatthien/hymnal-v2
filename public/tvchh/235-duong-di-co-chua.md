@@ -1,0 +1,7 @@
+---
+id: 235
+name: 235. Đường Đi Có Chúa
+weight: 235
+category: 
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Đường tôi đi lắm khi nhiều gai góc phủ đầy <br/>và khó khăn dường như cuốn chân tôi. <br/>Nguyện cầu nơi Giê-xu liền nghe tiếng đáp lời, <br/>Chúa soi đường qua khó khăn trong đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nương theo Ngài cứ vững bước tiến tới. <br/>Theo gót Ngài cứ vững bước tiến tới. <br/>Nhờ Thiên Chúa giúp sức, tôi tin cậy hoàn toàn. <br/>Thêm năng lực, thêm đức tin theo Ngài. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Trần gian lôi cuốn tôi vào cơn lốc hão huyền, <br/>đưa đẩy tôi vào phù phiếm chóng qua. <br/>Ngài còn thương xót tôi dìu xa chốn thế trần, <br/>dắt đưa vào nơi thỏa vui muôn dời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nương theo Ngài cứ vững bước tiến tới. <br/>Theo gót Ngài cứ vững bước tiến tới. <br/>Nhờ Thiên Chúa giúp sức, tôi tin cậy hoàn toàn. <br/>Thêm năng lực, thêm đức tin theo Ngài. </em></dd><dt>Câu 3:</dt><dd data-verse="3">Đường chông gai Chúa đi hầu soi lối tỏ tường, <br/>Ngài dẫn đưa vượt qua trũng chông gai. <br/>Ngài đặt tay thánh lên đầu tôi chúc phước lành, <br/>giúp tôi vượt qua khó khăn trong đời. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Nương theo Ngài cứ vững bước tiến tới. <br/>Theo gót Ngài cứ vững bước tiến tới. <br/>Nhờ Thiên Chúa giúp sức, tôi tin cậy hoàn toàn. <br/>Thêm năng lực, thêm đức tin theo Ngài. </em></dd></dl>

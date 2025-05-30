@@ -1,0 +1,7 @@
+---
+id: 384
+name: 384. Xuân Đến Bên Nhà
+weight: 384
+category: Mừng Năm Mới
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Kìa đàn chim đùa bay trên khóm hoa, <br/>báo tin vui xuân đến bên hiên nhà. <br/>Cười đùa bay đi ca vang khắp nơi, <br/>hát câu ca vui chúc xuân về. <br/>Người người vui xuân trong câu chúc nhau, <br/>chúc nhau câu thuận hòa an vui. <br/>Và được thêm ơn trong khi tuổi cao <br/>Chúa ban cho trọn đời vui tươi. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin Cha Ngài ban phước thiêng <br/>cho con được vui xuân hoài. <br/>Xin cho được may mắn luôn, <br/>cất tiếng ca mừng xuân. <br/>Kìa một năm trôi đi thật rất nhanh <br/>và mùa xuân tươi vui đã đến rồi. <br/>Mọi buồn đau xin trôi theo tháng năm. <br/>Cầu nguồn phước trong tôi. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Cành đào mong manh đùa theo gió mây, <br/>cánh xuân vui tươi lướt bên hiên nhà. <br/>Tràn ngập vui tươi trên muôn cánh hoa, <br/>gió heo mây đưa bước vô nhà. <br/>Mọi sự do nơi tay Thiên Chúa thôi, <br/>Chúa ban cho người mùa xuân tươi. <br/>Ngài làm nên hoa xuân để ngát hương. <br/>Chúa ban cho trời đẹp mộng mơ. </dd><dt>Điệp khúc:</dt><dd data-chorus="1"><em>Xin Cha Ngài ban phước thiêng <br/>cho con được vui xuân hoài. <br/>Xin cho được may mắn luôn, <br/>cất tiếng ca mừng xuân. <br/>Kìa một năm trôi đi thật rất nhanh <br/>và mùa xuân tươi vui đã đến rồi. <br/>Mọi buồn đau xin trôi theo tháng năm. <br/>Cầu nguồn phước trong tôi. </em></dd></dl>

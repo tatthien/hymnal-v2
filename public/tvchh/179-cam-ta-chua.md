@@ -1,0 +1,7 @@
+---
+id: 179
+name: 179. Cảm Tạ Chúa
+weight: 179
+category: 
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Cảm tạ Chúa, Ngài ban Chúa Giê-xu. <br/>Cảm tạ Chúa, sắm lo mọi điều. <br/>Cảm tạ Chúa, ngày tháng qua êm đềm, <br/>chúc tôn Ngài, Ngài luôn bên tôi. <br/>Cảm ơn Ngài ban cảnh xuân ấm êm. <br/>Ngợi khen Chúa ban niềm thỏa vui. <br/>Cảm ơn Ngài lau ráo hết nước mắt <br/>Chúc tán Chúa là Chúa an bình. </dd><dt>Câu 2:</dt><dd data-verse="2">Cảm tạ Chúa, tình yêu quá sâu rộng, <br/>ân điển Chúa thứ tha tội ô. <br/>Duy Ngài Đấng cung cấp bao nhu cầu, <br/>khiến cho đời ngày càng tươi vui. <br/>Mỗi bước đi nhờ Chúa luôn bên mình <br/>vượt qua hết đau buồn khiếp kinh. <br/>Vững tin nơi Chúa nhân từ hằng sống, <br/>hát chúc tôn Ngài - Đấng vinh quang. </dd><dt>Câu 3:</dt><dd data-verse="3">Cảm tạ Chúa, dầu tăm tối trong đời, <br/>cảm tạ Chúa cả khi buồn đau. <br/>Khi thử thách giông tố vây quanh mình, <br/>hát khen Ngài lòng tin nâng cao. <br/>Những khi ta đặt đức tin nơi Ngài, <br/>Ngài chăn dắt giữ gìn bước đi. <br/>Cảm ơn Ngài đã đã cho tôi Lời Thánh, <br/>vẫn sáng soi để dẫn đưa đường. </dd><dt>Câu 4:</dt><dd data-verse="4">Cảm tạ Chúa, nguồn cung cấp dồi dào, <br/>cho được có nhu cầu hằng ngày. <br/>Mỗi giờ phút cùng Chúa giao thông hoài; <br/>sống an bình vì Ngài chở che. <br/>Cảm ơn Ngài dìu bước trên linh trình, <br/>lòng luôn thỏa vui mừng hát vang. <br/>Nhắm Giê-xu vững tâm ta cùng tiến, <br/>quyết bước đi về chốn vĩnh an. </dd></dl>

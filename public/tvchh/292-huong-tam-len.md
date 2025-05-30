@@ -1,0 +1,7 @@
+---
+id: 292
+name: 292. Hướng Tâm Lên
+weight: 292
+category: Đơn Ca Kêu Gọi
+---
+<dl><dt>Câu 1:</dt><dd data-verse="1">Có phút giây nào người nghe tâm linh trống không. <br/>Và có phút giây nào đời người hoang vu luôn xót xa. <br/>Thì hãy hướng tâm lên tìm cầu giây phút thiêng liêng. <br/>Lặng chờ tiếng Chúa êm êm, Ngài sẽ an ủi ta. <br/>Nếu có khi nào cuộc vui xôn xao diễn ra. <br/>Mà vẫn thấy tâm hồn lạc loài cô đơn trong thế gian. <br/>Thì hãy hướng tâm lên mộng về Thiên Quốc mai sau, <br/>Là giờ danh sách Cha tuyên, <br/>thật là giây phút vui không cùng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1}"><em>Hãy hướng tâm hồn lên!Hãy hướng tâm hồn lên! <br/>Trong những lần nguy khốn, trong những lần cô đơn. <br/>Người ơi, chính Chúa là nguồn phước ân. <br/>Hãy hướng tâm hồn lên! Hãy hướng tâm hồn lên. </em></dd><dt>Câu 2:</dt><dd data-verse="2">Sống ở trong đời làm người bao nhiêu tháng năm. <br/>Dù có hết muôn sự giàu sang vinh hoa vẫn thấy không <br/>bằng phút hướng tâm lên hồn gần bên Chúa yêu thương. <br/>Đời còn chi phước an hơn, đời trong tay Chúa Cha. <br/>Hỡi những tâm hồn hiện còn đua chen mải mê. <br/>Còn bỏ chính thân mình tìm vào cuộc vui trong thế gian. <br/>Thì hãy hướng tâm lên nhìn được ánh sáng vinh quang <br/>là giờ danh sách Cha tuyên, <br/>thật là giây phút vui không cùng. </dd><dt>Điệp khúc:</dt><dd data-chorus="1}"><em>Hãy hướng tâm hồn lên!Hãy hướng tâm hồn lên! <br/>Trong những lần nguy khốn, trong những lần cô đơn. <br/>Người ơi, chính Chúa là nguồn phước ân. <br/>Hãy hướng tâm hồn lên! Hãy hướng tâm hồn lên. </em></dd></dl>
