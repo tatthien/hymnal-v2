@@ -1,15 +1,18 @@
 import Link from "next/link"
 import { getSongs } from "../hymns"
 
+const COLLECTION = 'hymns'
+const COLLECTION_TITLE = 'Thánh Ca'
+
 export default async function HymnsPage() {
-  const hymns = await getSongs('hymns')
+  const hymns = await getSongs(COLLECTION)
 
   return (
     <div>
       {hymns.map((hymn) => (
         <Link
           key={hymn.slug}
-          href={`/hymns/${hymn.slug}`}
+          href={`/${COLLECTION}/${hymn.slug}`}
           prefetch={true}
           className="hover:underline"
         >
@@ -23,5 +26,5 @@ export default async function HymnsPage() {
 }
 
 export const metadata = {
-  title: 'Thánh Ca',
+  title: COLLECTION_TITLE,
 }

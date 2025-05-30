@@ -29,10 +29,10 @@ export function HeaderLink() {
             isActive(href)
               ? 'font-bold text-black'
               : 'font-medium text-gray-600 hover:underline',
-            'relative text-sm text-right hover:text-black'
+            'relative text-sm hover:text-black'
           ].join(' ')
         }>
-          {isActive(href) && <span className="hidden md:inline pr-2">✦</span>}
+          {isActive(href) && <span className="hidden md:inline absolute -left-4 pr-2">✦</span>}
           {title}
         </Link>
       ))}
