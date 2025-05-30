@@ -21,3 +21,7 @@ export default async function HymnsPage() {
     </div>
   )
 }
+
+export const metadata = {
+  title: 'Thánh Ca',
+}
