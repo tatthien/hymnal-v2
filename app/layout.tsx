@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
+import { HeaderLink } from "@/components/HeaderLink";
 
 const sans = Inter({
   variable: "--font-geist-sans",
@@ -26,24 +27,18 @@ export default function RootLayout({
       <body
         className={[
           sans.className,
-          'antialiased leading-normal max-w-[600px] p-4 mx-auto'
+          'antialiased leading-normal max-w-[600px] p-6 mx-auto'
         ].join(' ')}
       >
-        <header className="mb-6">
-          <div>
-            <Link href='/' className="font-bold text-lg leading-snug">Hymnal</Link>
-            <span className="block text-sm text-gray-600">a &quot;digital&quot; book of hymns</span>
+        <div className="flex flex-col md:flex-row gap-10">
+          <div className="bg-white py-2 w-full md:w-[150px] shrink-0 flex flex-col gap-0 md:gap-2 sticky top-0 md:top-4 self-start">
+            <Link href='/' className="font-bold text-lg leading-snug text-left md:text-right">A book of Hymns</Link>
+            <HeaderLink />
           </div>
-        </header>
-
-        <nav className="mb-6 flex gap-4">
-          <Link href='/hymns' className="text-sm text-gray-600 hover:underline hover:text-gray-900">Thánh Ca</Link>
-          <Link href='/tvchh' className="text-sm text-gray-600 hover:underline hover:text-gray-900">Tôn Vinh Chúa Hằng Hữu</Link>
-        </nav>
-
-        <main>
-          {children}
-        </main>
+          <main>
+            {children}
+          </main>
+        </div>
       </body>
     </html>
   );
