@@ -1,10 +1,13 @@
 import { readdir, readFile } from 'fs/promises'
 import matter from 'gray-matter'
 
+type Collection = 'hymns' | 'tvchh'
+
 type Song = {
   slug: string
   name: string
   weight: number
+  collection: Collection
   content?: string
 }
 
@@ -18,9 +21,11 @@ export async function getSongs(collection = 'hymns') {
 
   const songs = dirs.map((fileName, index) => {
     const fileContent = fileContents[index]
-    const { data } = matter(fileContent)
+    const { data, content } = matter(fileContent)
     return {
       slug: fileName.replace('.md', ''),
+      content,
+      collection,
       ...data,
     }
   }) as Song[]

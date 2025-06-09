@@ -32,7 +32,6 @@ export function HeaderLink() {
             'relative text-sm hover:text-black'
           ].join(' ')
         }>
-          {isActive(href) && <span className="hidden md:inline absolute -left-4 pr-2">✦</span>}
           {title}
         </Link>
       ))}
