@@ -10,33 +10,23 @@ const searchClient = algoliasearch(
   process.env.NEXT_PUBLIC_ALGOLIA_SEARCH_API_KEY as string,
 );
 
-type HitProps = {
-  hit: AlgoliaHit<{
-    name: string
-    category: string
-    content: string
-    slug: string
-    collection: string
-  }>
-}
-
 export function SearchBox() {
   return (
-    <div className="relative">
-      <InstantSearch indexName="hymns_index" searchClient={searchClient}>
+    <InstantSearch indexName="hymns_index" searchClient={searchClient}>
+      <div className="relative">
         <InstantSearchBox
           classNames={{
             root: 'w-full bg-white border-b border-b-gray-200',
-            input: 'p-2 px-4 w-full focus:outline-none',
-            loadingIcon: 'hidden',
-            resetIcon: 'hidden',
-            submitIcon: 'hidden'
+            input: 'bg-gray-50 p-2 px-4 w-full focus:outline-none',
+            loadingIndicator: 'absolute right-10 top-1/2 transform -translate-y-1/2',
+            reset: 'p-[14px] bg-gray-50 absolute right-0 top-1/2 transform -translate-y-1/2',
+            submitIcon: 'hidden',
           }}
           placeholder="Tìm kiếm theo tên hoặc nội dung bài hát"
         />
         <Hits
           classNames={{
-            root: 'absolute bg-white h-[calc(100dvh-40px)] overflow-y-auto shadow border-b-gray-300'
+            root: 'absolute bg-white max-h-[calc(100dvh-40px)] overflow-y-auto shadow border-b-gray-300'
           }}
           hitComponent={Hit}
           transformItems={(items, { results }) => {
@@ -47,9 +37,19 @@ export function SearchBox() {
           }}
           escapeHTML
         />
-      </InstantSearch>
-    </div>
+      </div>
+    </InstantSearch>
   )
+}
+
+type HitProps = {
+  hit: AlgoliaHit<{
+    name: string
+    category: string
+    content: string
+    slug: string
+    collection: string
+  }>
 }
 
 function Hit({ hit }: HitProps) {
@@ -58,9 +58,8 @@ function Hit({ hit }: HitProps) {
       href={`/${hit.collection}/${hit.slug}`}
       className="block px-4 py-2 border-b border-b-gray-200 hover:bg-gray-100"
       onClick={() => {
-        // close search box
-        const searchBox = document.querySelector('.ais-SearchBox-input') as HTMLInputElement
-        searchBox.blur()
+        const searchForm = document.querySelector('.ais-SearchBox-form') as HTMLFormElement
+        searchForm.reset()
       }}
     >
       <div>
@@ -75,7 +74,6 @@ function Hit({ hit }: HitProps) {
           }}
           hit={hit}
           attribute="name"
-          highlightedTagName="em"
         />
         <div>
           <Highlight
@@ -85,7 +83,6 @@ function Hit({ hit }: HitProps) {
             }}
             hit={hit}
             attribute="content"
-            highlightedTagName="em"
           />
         </div>
       </div>
