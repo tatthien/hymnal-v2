@@ -29,7 +29,7 @@ export function HeaderLink() {
             isActive(href)
               ? 'font-bold text-black'
               : 'font-medium text-gray-600 hover:underline',
-            'relative text-sm hover:text-black'
+            'relative hover:text-black'
           ].join(' ')
         }>
           {title}
