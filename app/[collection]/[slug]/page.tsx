@@ -1,5 +1,6 @@
 import { getSongs } from "@/app/hymns"
-import { Collection, COLLECTION_MAP } from "@/constants"
+import { COLLECTION_MAP } from "@/constants"
+import { Collection } from "@/types"
 import { readFile } from "fs/promises"
 import matter from 'gray-matter'
 import Link from "next/link"
@@ -9,7 +10,7 @@ type Params = Promise<{ collection: Collection, slug: string }>
 
 export default async function HymnPage({ params }: { params: Params }) {
   const { collection, slug } = await params
-  const filename = `./public/${collection}/${slug}.md`
+  const filename = `./assets/songs/${collection}/${slug}.md`
 
   try {
     const fileContent = await readFile(filename, { encoding: 'utf-8' })
@@ -49,7 +50,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Params }) {
   const { collection, slug } = await params
-  const filename = `./public/${collection}/${slug}.md`
+  const filename = `./assets/songs/${collection}/${slug}.md`
   const fileContent = await readFile(filename, { encoding: 'utf-8' })
   const { data } = matter(fileContent)
 

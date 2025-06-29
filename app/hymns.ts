@@ -1,7 +1,6 @@
+import { Collection } from '@/types'
 import { readdir, readFile } from 'fs/promises'
 import matter from 'gray-matter'
-
-type Collection = 'hymns' | 'tvchh'
 
 type Song = {
   slug: string
@@ -12,12 +11,12 @@ type Song = {
 }
 
 export async function getSongs(collection = 'hymns') {
-  const entries = await readdir('./public/' + collection, { withFileTypes: true })
+  const entries = await readdir('./assets/songs/' + collection, { withFileTypes: true })
   const dirs = entries
     .filter((entry) => entry.isFile() && entry.name.endsWith('.md'))
     .map((entry) => entry.name)
 
-  const fileContents = await Promise.all(dirs.map((dir) => readFile(`./public/${collection}/${dir}`, { encoding: 'utf-8' })))
+  const fileContents = await Promise.all(dirs.map((dir) => readFile(`./assets/songs/${collection}/${dir}`, { encoding: 'utf-8' })))
 
   const songs = dirs.map((fileName, index) => {
     const fileContent = fileContents[index]

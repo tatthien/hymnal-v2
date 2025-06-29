@@ -1,7 +1,8 @@
 import Link from "next/link"
 import { getSongs } from "../hymns"
-import { Collection, COLLECTION_MAP } from "@/constants"
+import { COLLECTION_MAP } from "@/constants"
 import { notFound } from "next/navigation"
+import { Collection } from "@/types"
 
 type Params = Promise<{ collection: Collection }>
 
